@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a data science undergraduate with a math minor at ITESM Mty.<br>Currently working on ML and Heuristic Algorithms.<br>Looking to coolaborate on mathematical computation and AI research.<br>Currently learning about Group Relative Policy Optimization and Deep learning.
+I'm a data science undergraduate with a math minor at ITESM Mty.<br>Currently working on ML and Heuristic Algorithms.<br>Looking to coolaborate on mathematical computation and AI research.<br>Currently learning about Group Relative Policy Optimization and Deep learning while becoming and OCI AI Foundations Associate, OCI GenAI Professional and AWS AI & ML Scholar.
 
 
 ## 🌐 Socials:
