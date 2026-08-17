@@ -10,13 +10,13 @@ Data Science + Mathematics @ Tecnológico de Monterrey
 
 </div>
 
-<br>
+---
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01 / research`
+### `research.index`
 
 ```text
 reinforcement learning
@@ -27,29 +27,35 @@ reinforcement learning
 deep learning
 ├── efficient training
 ├── representation learning
-└── generative modeling
+└── generative models
 
-systems
-├── ML systems
+ml systems
 ├── accelerated computing
-└── distributed training
+├── distributed training
+└── inference systems
 ```
 
 </td>
+
 <td width="50%" valign="top">
 
-### `02 / current`
+### `now.log`
 
 ```text
-studying
-→ reinforcement learning
-→ neural architectures
-→ efficient AI systems
+exploring
+→ NoProp × reinforcement learning
+→ efficient neural network training
+→ representation learning
 
-building
-→ NoProp × RL experiments
-→ research implementations
-→ stronger systems foundations
+learning
+→ CUDA
+→ JAX
+→ distributed ML systems
+
+reading
+→ reinforcement learning
+→ new neural architectures
+→ efficient AI
 ```
 
 </td>
@@ -58,53 +64,83 @@ building
 
 ---
 
-### `03 / toolbox`
+### `about`
+
+I'm interested in understanding how intelligent systems **learn, represent information, and scale**.
+
+My work sits between machine learning research and engineering, with a particular interest in reinforcement learning, alternative learning mechanisms, efficient deep learning, representation learning, and the systems that make modern AI possible.
+
+I enjoy moving between the mathematical formulation of an idea, its implementation, and the experiments needed to understand whether it actually works.
+
+---
 
 <table>
 <tr>
-<td><b>Languages</b></td>
-<td>Python · C++ · C · Julia · Rust</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td><b>ML</b></td>
-<td>PyTorch · JAX · NumPy · SciPy · scikit-learn</td>
-</tr>
+### `toolbox`
 
-<tr>
-<td><b>Systems</b></td>
-<td>CUDA · Linux · Git · Docker</td>
-</tr>
+| | |
+|---|---|
+| **languages** | Python · C++ · C · Julia · Rust |
+| **ml** | PyTorch · JAX · NumPy · SciPy |
+| **systems** | CUDA · Linux · Git · Docker |
+| **cloud** | GCP · AWS · Azure |
+| **research** | LaTeX · Jupyter · MLflow |
 
-<tr>
-<td><b>Cloud</b></td>
-<td>GCP · AWS · Azure</td>
-</tr>
+</td>
 
-<tr>
-<td><b>Research</b></td>
-<td>LaTeX · Jupyter · MLflow</td>
+<td width="50%" valign="top">
+
+### `interests`
+
+```text
+learning algorithms
+representation learning
+reinforcement learning
+efficient training
+generative models
+geometric learning
+ml systems
+distributed computing
+```
+
+</td>
 </tr>
 </table>
 
 ---
 
-### `04 / interests`
+### `research.notes`
 
-> I am interested in understanding how learning systems **learn, represent information, and scale** — from mathematical formulations to efficient implementations.
+```yaml
+current_questions:
+  - can useful learning happen without conventional backpropagation?
+  - how can representations make learning more sample-efficient?
+  - where is compute actually spent during training and inference?
+  - which abstractions make large-scale ML systems easier to reason about?
 
-`reinforcement learning` · `efficient deep learning` · `representation learning` · `AI systems`
+working_style:
+  - read
+  - implement
+  - measure
+  - understand
+  - repeat
+```
 
-<br>
+---
+
+> Better models are not only about scaling compute.  
+> I'm interested in **how they learn, what they represent, and how efficiently we can build them.**
+
+---
 
 <div align="center">
 
+[emiliogomez.dev](https://emiliogomez.dev/)
+
 <sub>
-currently reading papers, implementing ideas, breaking things, and trying to understand why they work.
+reinforcement learning · representation learning · efficient AI · ML systems
 </sub>
-
-<br><br>
-
-[`emiliogomez.dev`](https://emiliogomez.dev/)
 
 </div>
