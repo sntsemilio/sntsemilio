@@ -2,126 +2,109 @@
 
 # José Emilio Gómez Santos
 
-`AI ENGINEER` &nbsp;&nbsp; `ML RESEARCH` &nbsp;&nbsp; `DATA SCIENCE × MATHEMATICS`
+**AI Engineer · ML Researcher**
 
-<br>
+Data Science + Mathematics @ Tecnológico de Monterrey
 
-**learning algorithms · representations · intelligent systems**
-
-<br>
-
-[emiliogomez.dev](https://emiliogomez.dev/) / [linkedin](https://linkedin.com/in/emiliosnts16)
+[website](https://emiliogomez.dev/) · [linkedin](https://linkedin.com/in/emiliosnts16) · [github](https://github.com/sntsemilio)
 
 </div>
 
----
+<br>
 
 <table>
 <tr>
-<td width="22%"><b>LOCATION</b></td>
-<td>Monterrey, México</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td><b>UNIVERSITY</b></td>
-<td>Tecnológico de Monterrey</td>
-</tr>
+### `01 / research`
 
-<tr>
-<td><b>FIELD</b></td>
-<td>Artificial Intelligence / Machine Learning</td>
-</tr>
+```text
+reinforcement learning
+├── alternative learning rules
+├── value-based methods
+└── policy optimization
 
-<tr>
-<td><b>MODE</b></td>
-<td>research · implementation · experimentation</td>
+deep learning
+├── efficient training
+├── representation learning
+└── generative modeling
+
+systems
+├── ML systems
+├── accelerated computing
+└── distributed training
+```
+
+</td>
+<td width="50%" valign="top">
+
+### `02 / current`
+
+```text
+studying
+→ reinforcement learning
+→ neural architectures
+→ efficient AI systems
+
+building
+→ NoProp × RL experiments
+→ research implementations
+→ stronger systems foundations
+```
+
+</td>
 </tr>
 </table>
 
-<br>
+---
 
-## research.index
+### `03 / toolbox`
 
-```text
-[01] reinforcement learning
-     ├─ value learning
-     ├─ policy optimization
-     └─ alternative credit assignment
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Python · C++ · C · Julia · Rust</td>
+</tr>
 
-[02] efficient deep learning
-     ├─ training
-     ├─ inference
-     └─ optimization
+<tr>
+<td><b>ML</b></td>
+<td>PyTorch · JAX · NumPy · SciPy · scikit-learn</td>
+</tr>
 
-[03] representation learning
-     ├─ latent spaces
-     ├─ geometric learning
-     └─ generative models
+<tr>
+<td><b>Systems</b></td>
+<td>CUDA · Linux · Git · Docker</td>
+</tr>
 
-[04] machine learning systems
-     ├─ accelerators
-     ├─ distributed computation
-     └─ compiler stacks
-```
+<tr>
+<td><b>Cloud</b></td>
+<td>GCP · AWS · Azure</td>
+</tr>
 
-<br>
-
-## now.log
-
-| | |
-|---|---|
-| `READING` | RL · efficient training · new neural architectures |
-| `EXPERIMENTING` | NoProp × reinforcement learning |
-| `LEARNING` | CUDA · JAX · ML systems |
-| `INTERESTED IN` | research engineering · pretraining · representation learning |
-
-<br>
-
-## stack.config
-
-```yaml
-languages:
-  - Python
-  - C++
-  - C
-  - Julia
-  - Rust
-
-machine_learning:
-  - PyTorch
-  - JAX
-  - NumPy
-  - SciPy
-
-systems:
-  - CUDA
-  - Linux
-  - Docker
-  - Git
-
-research:
-  - LaTeX
-  - Jupyter
-  - MLflow
-```
-
-<br>
-
-## hypothesis
-
-> Better models are not only a question of scale.  
-> They are also a question of **how we learn, what we represent, and how efficiently we compute it.**
+<tr>
+<td><b>Research</b></td>
+<td>LaTeX · Jupyter · MLflow</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
+### `04 / interests`
 
-**research · build · measure · understand · repeat**
+> I am interested in understanding how learning systems **learn, represent information, and scale** — from mathematical formulations to efficient implementations.
+
+`reinforcement learning` · `efficient deep learning` · `representation learning` · `AI systems`
 
 <br>
 
-[website](https://emiliogomez.dev/) ·
-[github](https://github.com/sntsemilio) ·
-[linkedin](https://linkedin.com/in/emiliosnts16)
+<div align="center">
+
+<sub>
+currently reading papers, implementing ideas, breaking things, and trying to understand why they work.
+</sub>
+
+<br><br>
+
+[`emiliogomez.dev`](https://emiliogomez.dev/)
 
 </div>
